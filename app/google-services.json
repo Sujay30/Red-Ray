@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222652877483",
+    "project_id": "redray-final-3479c",
+    "storage_bucket": "redray-final-3479c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222652877483:android:eec823b550677c51bbc5ee",
+        "android_client_info": {
+          "package_name": "com.example.redray_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222652877483-74mgot1ti1gh5t39e1ojr1jnpfd3m65q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ4XXAPuPPrst3jMxWoYjT4gY-xOZP464"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222652877483-74mgot1ti1gh5t39e1ojr1jnpfd3m65q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
